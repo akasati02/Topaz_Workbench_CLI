@@ -1,0 +1,39 @@
+Signature-Version: 1.0
+Created-By: 11.0.7 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: 3eLq8BtMyoVo46kOkqopBmowlGRwTeZcaJ+NTDcrm+M=
+SHA-256-Digest-Manifest-Main-Attributes: 9U7xDSsjbf5Dyyl8e2U4sUWdX3rPsBh
+ jBjVk09wDnJ0=
+
+Name: about.html
+SHA-256-Digest: LwMSHiB8Fy7yIHwbDN/SaptRsApL0L7PhTCyMzNSoQo=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: ZFagVydlALkEQoSEHSu6A8yY9elOWgOL9s8LcBUi4Xs=
+
+Name: OSGI-INF/l10n/bundle_ja.properties
+SHA-256-Digest: ITh6FMe3Imjl7hZlT9KEfDQnITEIMzyiP0XXFyPfgcE=
+
+Name: plugin.xml
+SHA-256-Digest: vhGZRqYXHu9ICWwoBu3amga0y2npQ6EhR4euqMaJQ6I=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/CredentialProviderPassTicket$1.class
+SHA-256-Digest: 6WobDaJEtnysEZipAo0v06Ihod3xc7nAR8vBRuuOH60=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/internal/CustomCredentialProviderPassTicketActivator.class
+SHA-256-Digest: gboz84Yp3isDLrjU/Pfewz19nPyNrQlPPGwtFlmqq3k=
+
+Name: about_files/license_compuware.html
+SHA-256-Digest: OtpyD0GX00RCqqfmvkIHbDEaPtA9h3V/HlrXyNCXIj4=
+
+Name: about_files/compuwareLogo.png
+SHA-256-Digest: uDBlL4Np3Z/SERJJIchmpGM+bhVgk53C7uD4mYCcjwk=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: vINXLnRJjcsjWXW1Rt0VpTe0vkSJYkaej9AtZDc6iIc=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/CredentialProviderPassTicket.class
+SHA-256-Digest: 5jXLSwTcDEVnwFpma6Msm5dW9BXF44BQtEjBeKFg0ZI=
+

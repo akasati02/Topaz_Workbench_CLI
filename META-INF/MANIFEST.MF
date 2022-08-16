@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %bundle.name
+Bundle-SymbolicName: com.compuware.frameworks.hostservices.client.ui.cre
+ dentials.passticket;singleton:=true
+Bundle-Version: 20.12.1.v20220810-1324_40
+Bundle-Vendor: %bundle.provider
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.compuware.api.hostservices.passticket,com.compuware.
+ api.hostservices.passticket.exceptions,com.compuware.api.hostservices.p
+ assticket.extdef,com.compuware.frameworks.hostservices.client.ui.codepa
+ gemanager.api,com.compuware.frameworks.hostservices.client.ui.credentia
+ ls.api,com.compuware.frameworks.hostservices.common.api,com.compuware.f
+ rameworks.hostservices.common.logging,com.compuware.frameworks.hostserv
+ ices.core.exceptions,com.compuware.frameworks.workbench.utils,org.eclip
+ se.core.runtime,org.eclipse.jface.dialogs,org.eclipse.jface.window,org.
+ eclipse.swt,org.eclipse.swt.widgets,org.eclipse.ui,org.eclipse.ui.plugi
+ n,org.osgi.framework
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: com.compuware.frameworks.hostservices.client.ui.creden
+ tials.passticket.internal.CustomCredentialProviderPassTicketActivator
+Export-Package: com.compuware.frameworks.hostservices.client.ui.credenti
+ als.passticket
+Eclipse-BundleShape: dir
+
+Name: about.html
+SHA-256-Digest: ywK41KHWaHAmZ6nBEbkQEP4KwldA91DENSpin+Bgf2E=
+
+Name: META-INF/p2.inf
+SHA-256-Digest: Q9wAJLDGR6LquIRnia8rvgMAluL7mh2Cbh3jFCYNSSo=
+
+Name: OSGI-INF/l10n/bundle_ja.properties
+SHA-256-Digest: 6nBnWrzzMh2oEYYlyvjJS2ELTVEFwNS/43goMZAXnp0=
+
+Name: plugin.xml
+SHA-256-Digest: pCh36epllBPmLtS7WJ83dwSt9EywLYDhhtOiaGXR1eY=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/CredentialProviderPassTicket$1.class
+SHA-256-Digest: GBIRmiJGpF2rnrOEwBPT/h4gZ12FptgsDIRWjG/020U=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/internal/CustomCredentialProviderPassTicketActivator.class
+SHA-256-Digest: SOuj6w67NJ2i0D/Xu7KZU1e4RDkhffeoiX06r836iBo=
+
+Name: about_files/license_compuware.html
+SHA-256-Digest: rrya7PGnRDRTGBl/gJ4LOkZ69UDYzPgOXu7BmF/Wr8Q=
+
+Name: about_files/compuwareLogo.png
+SHA-256-Digest: ovgZSBRi5KGFYvmpGgE4s8Q9q3hUkCn6mEneuUAI3Ew=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA-256-Digest: Em7wNKZuFcKJbRcWBzD1mH+sSmeYzIezBIEzsN6qlPw=
+
+Name: com/compuware/frameworks/hostservices/client/ui/credentials/passti
+ cket/CredentialProviderPassTicket.class
+SHA-256-Digest: np8WVtDJwT2LSe2GMXcmBsaaJPKzYLsURKp5KFOAxrQ=
+
